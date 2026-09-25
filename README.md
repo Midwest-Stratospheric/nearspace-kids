@@ -21,9 +21,15 @@ Make stratospheric research accessible, fun, and inspiring for young learners th
 - [msds-data](https://github.com/Midwest-Stratospheric/msds-data) — Real atmospheric data kids can explore
 - [x2griffon](https://github.com/Midwest-Stratospheric/x2griffon) — The actual payload that goes to near-space
 
-## Events
+## Learn online with Aerostratospheric STEM
 
-Public launches (such as the planned Casey, IL area events) often include giveaways, coloring contests, and hands-on activities for kids.
+Classrooms and families can use these materials with the live program pages:
+
+1. STEM program: https://www.midwestsds.com/stem.html
+2. xPlorer, our signed in learning dashboard with free 1 hour and 5 hour STEM certificates: https://www.midwestsds.com/explorer.html
+3. Real Casey, Illinois weather and flight data on xDataHub, our public open atmospheric data dashboard: https://www.midwestsds.com/msds-data-hub.html
+
+Educators and education groups who want to collaborate on lessons, data activities, or shared STEM projects can email space@aerostratospheric.com or book a 15 minute intro at https://calendly.com/aerostratospheric/15min
 
 ---
 
