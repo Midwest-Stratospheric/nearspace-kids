@@ -1,6 +1,6 @@
 # NearSpace Kids
 
-Educational outreach program from **Midwest Stratospheric Data Systems** introducing kids (and classrooms) to high-altitude balloons, atmospheric science, and near-space exploration.
+Educational outreach program from **Aerostratospheric** introducing kids (and classrooms) to high-altitude balloons, atmospheric science, and near-space exploration.
 
 ## Operation Canis Major
 
@@ -19,7 +19,7 @@ Make stratospheric research accessible, fun, and inspiring for young learners th
 - Simple explanations of how HABs work and what we measure
 - Contest resources (coloring contests, design challenges)
 - Classroom-friendly lesson ideas and printables
-- Links to real flight data and imagery from MSDS launches
+- Links to real flight data and imagery from Aerostratospheric launches
 
 ## Related Repositories
 
@@ -39,6 +39,6 @@ Educators and education groups who want to collaborate on lessons, data activiti
 
 ---
 
-**Midwest Stratospheric Data Systems**  
+**Aerostratospheric**  
 Casey, Illinois  
 [midwestsds.com](https://www.midwestsds.com)
