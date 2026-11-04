@@ -2,6 +2,12 @@
 
 Educational outreach program from **Midwest Stratospheric Data Systems** introducing kids (and classrooms) to high-altitude balloons, atmospheric science, and near-space exploration.
 
+## Operation Canis Major
+
+<img src="https://www.midwestsds.com/images/operation-canis-major-patch.png" alt="Operation Canis Major patch" width="120" align="right">
+
+This project is part of [Operation Canis Major](https://www.midwestsds.com/operation-canis-major.html), often called Project Canis: Aerostratospheric's mission objective to provide open stratospheric and atmospheric research and data, unrestricted, to the public. Learn more: https://www.midwestsds.com/operation-canis-major.html
+
 ## Mission
 
 Make stratospheric research accessible, fun, and inspiring for young learners through hands-on activities, contests, and clear educational materials.
